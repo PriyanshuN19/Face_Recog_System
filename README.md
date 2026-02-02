@@ -23,7 +23,6 @@ The project captures face data through a webcam, trains a simple ML model, and r
 - **Computer Vision:** Haar Cascade Classifier  
 
 ---
----
 
 ## ⚙️ Installation & Setup
 
@@ -102,10 +101,9 @@ python faceRecog.py
 ## 👨‍💻 Author
 
 **Priyanshu Nailwal**
+
 Computer Science & AI Enthusiast
 
 ---
 
 ⭐ If you found this project helpful, feel free to star the repository!
-
-```
