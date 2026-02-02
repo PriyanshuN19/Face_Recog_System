@@ -1,0 +1,7 @@
+__pycache__/
+*.npy
+*.csv
+*.pkl
+*.mp4
+.env
+data/
